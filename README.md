@@ -1,4 +1,4 @@
-# 🍎 Fruit Ripeness Grader
+#  Fruit Ripeness Grader
 
 > **DCIT 407 — Image Processing Semester Project**  
 > Transfer-learning CNN that classifies fruit images as **unripe**, **ripe**, or **overripe**.
